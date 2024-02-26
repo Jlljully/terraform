@@ -12,14 +12,13 @@
 
 Тфлинт выдавал три типа ошибок: **неуказанная версия провайдера, неиспользуемые в коде переменные и в модуле с удаленного репозитория - ветка мейн**. А Чеков находил только проблему в коде демонстрации с веткой мейн
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled.png "1")
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled4.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled4.png "1")
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled3.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled3.png "1")
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled1.png "1")
-
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled1.png "1")
 
 ------
 
@@ -34,15 +33,15 @@
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled8.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled8.png "1")
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled9.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled9.png "1")
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled10.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled10.png "1")
 
 Разлочить: **terraform force-unlock id-лока-из-ошибки** :
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled11.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled11.png "1")
 
 ------
 
@@ -81,7 +80,7 @@ https://github.com/Jlljully/terr04_push/pull/2
 }
 ```
 
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled13.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled13.png "1")
 
   
 ```hcl
@@ -97,6 +96,6 @@ variable "test_ip_list" {
 }
 ```
   
-![Скрин](https://github.com/Jlljully/terr05/blob/main/Untitled14.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_5/Untitled14.png "1")
 
 ------
