@@ -151,3 +151,6 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 ![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled21.png "")  
 
 4ое оставлю на потом :)
+
+
+[push code](https://github.com/Jlljully/terr02_push)
