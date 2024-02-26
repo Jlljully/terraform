@@ -13,9 +13,10 @@
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled.png "1")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled2.png "1")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled2.png "1")
+
 
 ### Задание 2
 
@@ -41,11 +42,11 @@ module "vpc_dev" {
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled6.png "2")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled6.png "2")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled7.png "2")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled7.png "2")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled5.png "2")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled5.png "2")
 
 
 ## Requirements
@@ -98,17 +99,17 @@ No modules.
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled8.png "3")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled8.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled9.png "3")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled9.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled10.png "3")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled10.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled11.png "3")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled11.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled12.png "3")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled12.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled13.png "3")
+![Скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_4/Untitled13.png "3")
 
 Почему-то он при возвращении ВМ и плане предлагает сделать прерываемой, хотя она уже была (см скрин в задании 1)
 
