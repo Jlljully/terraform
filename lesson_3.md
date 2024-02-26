@@ -15,10 +15,9 @@
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled.png "")   
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled.png "")   
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled2.png "")  
-
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled2.png "")  
 
 ### Задание 2
 
@@ -33,27 +32,27 @@
 ### Ответ
 
 1.
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled3.png "")   
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled3.png "")   
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled4.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled4.png "")  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled5.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled5.png "")  
 
 2-3. 
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled6.png "")   
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled6.png "")   
 
 Не хочет без итератора обращаться к листу такого типа, просит map или set. Почти переделала на map, потому что так проще, но нашли с ребятами костыль с итератором (а, может, не костыль? так и должно быть?)  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled7.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled7.png "")  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled8.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled8.png "")  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled9.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled9.png "")  
 
 4-5. 
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled10.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled10.png "")  
 
 
 ### Задание 3
@@ -65,9 +64,9 @@
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled11.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled11.png "")  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled12.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled12.png "")  
 
 
 ### Задание 4
@@ -86,12 +85,12 @@
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled13.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled13.png "")  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled14.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled14.png "")  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled15.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled15.png "")  
 
-![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled16.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_3/Untitled16.png "")  
 
 
