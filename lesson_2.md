@@ -8,7 +8,7 @@
 https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.   
 Этот функционал понадобится к следующей лекции. 
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled.png "")  
 
 
 ### Задание 1
@@ -33,13 +33,13 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 5. Прерываемая ВМ (preemptible) подходит для тестовых платформ, которые можно останавливать для высвобождения ресурсов для запуска более важных для работы ВМ в рамках той же зоны доступности (а так же они останавливаются при простое 24ч+). Их использование значительно дешевле, но не подходит для прода.
 А использование core_fraction=Х обеспечит предоставление не менее Х% частотности процессора при высокой нагрузке и до 100% при высвобожении ресурсов.
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled7.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled7.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled6.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled6.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled5.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled5.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled4.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled4.png "")  
 
 
 
@@ -53,9 +53,9 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled8.png "")    
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled8.png "")    
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled9.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled9.png "")  
 
 //Следующие задания выполнялись в другой день, поэтому ресурсы подняты с нуля.//
 
@@ -69,11 +69,11 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled10.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled10.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled11.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled11.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled12.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled12.png "")  
 
 
 ### Задание 4
@@ -85,9 +85,9 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled13.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled13.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled14.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled14.png "")  
 
 
 ### Задание 5
@@ -99,7 +99,7 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled15.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled15.png "")  
 
 
 ### Задание 6
@@ -114,17 +114,17 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 1. 
    
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled16.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled16.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled17.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled17.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled18.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled18.png "")  
 
 2-4. 
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled19.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled19.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled20.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled20.png "")  
 
    
 ------
@@ -148,6 +148,6 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled21.png "")  
+![скрин](https://github.com/Jlljully/terraform/blob/main/files/lesson_2/Untitled21.png "")  
 
 4ое оставлю на потом :)
